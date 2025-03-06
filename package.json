@@ -1,0 +1,18 @@
+{
+  "name": "monocssbywiktor",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for styling elements using attributes.",
+  "main": "MonoCSS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "javascript",
+    "styling",
+    "keyframes",
+    "utility"
+  ],
+  "author": "wiktorlaskowski",
+  "license": "MIT"
+}
