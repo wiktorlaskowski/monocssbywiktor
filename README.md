@@ -1,6 +1,9 @@
 # MonoCSS
 MonoCSS is a lightweight JavaScript library that allows you to style elements using only attributes.
 
+# Important notice
+MonoCSS is no longer getting updates and will be replaced. R.I.P MonoCSS 2025 - 2026
+
 ## Features
 - Style elements using inline attributes  
 - Group styles using `mncss-group` and `mncss-use-group`  
